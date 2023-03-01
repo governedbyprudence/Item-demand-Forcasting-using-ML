@@ -19,11 +19,11 @@ Tuning traditional algorithms takes a significant amount of effords and domain e
 
 In this repo, we are trying to figure out a way of predict the same using machine learning algorithms.
 
-#**Data**
+# **Data**
 
 The dataset comprised of units sold on a daily basis along with details regarding the sales
 
-#**WorkFlow**
+# **WorkFlow**
 
 Handling missing values
 
@@ -41,11 +41,11 @@ SVM (future scope)
 
 Hyperparameter Tuning
 
-#**Result**
+# **Result**
 
 ![final](https://user-images.githubusercontent.com/68984080/222012679-d7351fd5-d522-4066-8062-48ffeb77c01a.png)
 
-#**Required Packages**
+# **Required Packages**
 
 numpy
 
