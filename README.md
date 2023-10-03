@@ -1,4 +1,4 @@
-# Item-demand-Forcasting-using-ML
+Item-demand-Forcasting-using-ML
 Using machine learning to solve one of the most common problem of Supply Chain domain, i.e Demand Forecasting.
 Demand forecasting is the process of making estimations about future customer demand over a defined period, using historical data and other information.
 
